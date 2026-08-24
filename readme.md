@@ -1,10 +1,11 @@
 ## Purpose
-Georgia Tech (and other universities) require all work to be captured in a .edu git repo. Amended the global .gitconfig to route git credentials depending on working directory, separating personal code (~/code) from university code (~gatech).
+Capture basic setup for university development environments.
 
-See the example identity files:
+git-routing
+    Georgia Tech (and other universities) require all work to be captured in a .edu git repo. Amended the global .gitconfig to route git credentials depending on working directory, separating personal code (~/code) from university code (~gatech).
 
-dot-gitconfig-edu: use in educational directory
+    See the example identity files:
+    dot-gitconfig-edu: use in educational directory
+    dot-gitconfig-personal: use in personal projects directory
+    global-dot-gitconfig: user level .gitconfig file router
 
-dot-gitconfig-personal: use in personal projects directory
-
-global-dot-gitconfig: user level .gitconfig file router
