@@ -3,5 +3,7 @@ Georgia Tech (and other universities) require all work to be captured in a .edu 
 
 See the example identity files:
 dot-gitconfig-edu: use in educational directory
+
 dot-gitconfig-personal: use in personal projects directory
+
 global-dot-gitconfig: user level .gitconfig file router
